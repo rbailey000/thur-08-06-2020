@@ -1,8 +1,8 @@
-body li {
+li {
     font-size: 1.4em;
     list-style-type: none;
 }
 
-body li a {
+a {
     text-decoration: none;
 }
